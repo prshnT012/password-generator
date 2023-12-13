@@ -4,14 +4,24 @@
 
 - You have the option to create a password that includes numbers and special characters.  
 ---
-## [Live link](https://password-generator-tan-tau.vercel.app) 
+## Preview
 
----  
+https://github.com/prshnT012/password-generator/assets/123406900/77e5eaf7-ac3a-4f29-8b47-4af19e98eb61
+
+---
 ## Demo image  
 
 ![img](https://i.postimg.cc/9QMJdcxP/Screenshot-2023-12-12-190641.png)
 
 ---
 
-## Demo video
-<iframe src="https://player.vimeo.com/video/893719458?h=203dc48131" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+## [Live link](https://password-generator-tan-tau.vercel.app) 
+
+---  
+
+## Teck stack
+- React js
+- Taildwind css
+
+
+
